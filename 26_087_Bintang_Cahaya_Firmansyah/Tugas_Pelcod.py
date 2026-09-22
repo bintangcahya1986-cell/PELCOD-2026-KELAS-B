@@ -27,4 +27,5 @@ print("total belanja :", total_belanja)
 if angka_favorit % 2 == 0:
     print("angka favorit adalah bilangan genap")
 else:
-    print("angka favorit adalah bilangan ganjil")
+    print("angka favorit adalah bilangan ganjil") 
+    
